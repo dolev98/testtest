@@ -1,0 +1,25 @@
+'
+import os
+import sys
+import math
+
+def add_numbers(a, b)
+    result = a + b
+    return result
+
+def unused_function():
+    print("This function is never used")
+
+def calculate_area(radius):
+    area = math.pi * radius ** 2
+    print("Area is: " + area)
+
+def main():
+    x = 10
+    y = "20"
+    print("Sum:", add_numbers(x, y))
+
+    for i in range(5)
+        print("Number:", i)
+
+main()
